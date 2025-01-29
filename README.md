@@ -1,6 +1,6 @@
 # Task Management API
 
-Bu proje, kullanıcıların kişisel görevlerini yönetebilecekleri bir RESTful API'dir. .NET 7.0 kullanılarak geliştirilmiştir.
+Bu proje, kullanıcıların kişisel görevlerini yönetebilecekleri bir RESTful API'dir. .NET 9.0 kullanılarak geliştirilmiştir.
 
 ## 🚀 Özellikler
 
@@ -13,9 +13,9 @@ Bu proje, kullanıcıların kişisel görevlerini yönetebilecekleri bir RESTful
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **.NET 7.0**
+- **.NET 9.0**
 - **ASP.NET Core Web API**
-- **Entity Framework Core 7.0.15**
+- **Entity Framework Core**
 - **PostgreSQL**
 - **JWT (JSON Web Token)**
 - **Swagger/OpenAPI**
